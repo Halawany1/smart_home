@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "714557495635",
+    "firebase_url": "https://smart-home-3cf5e-default-rtdb.firebaseio.com",
+    "project_id": "smart-home-3cf5e",
+    "storage_bucket": "smart-home-3cf5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714557495635:android:7eef3c251ce18cac0529a6",
+        "android_client_info": {
+          "package_name": "com.example.smart_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD5zjLZfAoiH-OARXBsL5pX-aje6jTHzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
